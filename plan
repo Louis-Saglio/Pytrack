@@ -1,0 +1,44 @@
+pas de meta présentation de Python
+
+forcer à utiliser peu de ligne
+
+exercices simples, raid difficiles mais réalistes
+
+## Variables et types primitifs
+Temps : 1h
+Déclarer des variable en utilisant la syntaxe des literals
+utiliser type
+
+## Controlleurs de flux
+Temps : 3h
+if/elif/else for/else while break continue pass
+- Plus ou moins
+- Validateur d'entrée
+- Fibonacci
+
+## Datastructures
+Temps : 5h
+Comprendre les types tuples, list, set, frozenset et dict ainsi que leurs méthodes, indexing et slicing
+Utiliser len, max et min
+https://pynative.com/python-list-exercise-with-solutions/
+https://www.geeksforgeeks.org/python-set-exercise/
+exo ou un dictionnaire doit prendre en clefs une collection (tuple over list)
+exo cpu intensive dont le temps d'exécution est mesuré ne pouvant être réussi qu'avec des sets
+https://www.geeksforgeeks.org/python-dictionary-exercise/
+
+
+## Fonctions
+Temps : 5h
+- Déclarer une fonction
+- Paramètres positionnels, paramètres nommés, *args, **kwargs, *, /
+- Fonction as an object
+- lambda
+- Decorateurs (optionnel)
+
+exo min/max/sorted avec l'argument key
+
+5. Exceptions
+6. Fichiers
+6. POO débutants
+7. Iteration
+8. POO intermédiaire
