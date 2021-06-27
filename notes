@@ -12,3 +12,8 @@ sortie 0 ou 1
 comment tester
 
 test exploit of rewriting test code from student submission code
+
+remove read and write rights for user 1000 on test and entrypoint files
+
+todo : make test more resilient to unexpected state
+todo : add documentation (lol)

@@ -1,5 +1,4 @@
 import inspect
-import sys
 
 
 def main(submitted_module):
@@ -21,5 +20,7 @@ def main(submitted_module):
         assert "my_list = [" in content, "my_list was not directly created with the literal syntax"
         assert "my_dict = {" in content, "my_dict was not directly created with the literal syntax"
     except AssertionError as e:
-        print(e, file=sys.stderr)
-        exit(1)
+        code, message = 1, str(e)
+    else:
+        code, message = 0, None
+    return code, message
