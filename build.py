@@ -67,4 +67,3 @@ os.system(
 )
 # Build the docker image
 os.system("docker build -t pytrack .")
-

@@ -20,3 +20,11 @@ todo : make test more resilient to unexpected state
 why the fuck the whole FS is readonly ?
 
 todo : re-document the build process to big changes due to read-only FS being a pain in the ass
+
+work around read only file system
+trop compliqué de géré l'input user -> repenser les exercices de la deuxième quête
+vu avec Thomas : il configurera Ytrack tout seul
+
+write in /jail
+
+peut-on donner des niveau de passage pour un exo (passable/bien/excellent) ou étoiles.
