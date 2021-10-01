@@ -1,5 +1,5 @@
 def main(namespace, src):
-    func = namespace['main']
+    func = namespace["main"]
     if func("") is not None:
         exit_code, message = 1, "Does not return None for empty string"
     elif func("\t") != (0, "Tabulation"):

@@ -7,7 +7,7 @@ input_generator = (word for word in ("zcb", "qdf", "sqd"))
 
 
 def main(namespace, src):
-    func = namespace['main']
+    func = namespace["main"]
     exit_code, message = 0, ""
     try:
         func()

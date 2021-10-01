@@ -25,6 +25,7 @@ https://www.geeksforgeeks.org/python-set-exercise/
 exo ou un dictionnaire doit prendre en clefs une collection (tuple over list)
 exo cpu intensive dont le temps d'exécution est mesuré ne pouvant être réussi qu'avec des sets
 https://www.geeksforgeeks.org/python-dictionary-exercise/
+exo sur les méthodes de str
 
 
 ## Fonctions
@@ -38,7 +39,20 @@ Temps : 5h
 exo min/max/sorted avec l'argument key
 
 5. Exceptions
-6. Fichiers
-6. POO débutants
-7. Iteration
-8. POO intermédiaire
+- raise
+- try/except
+- else
+- finally
+
+7. Fichiers
+- open
+- with open
+- read/write
+- pickle
+
+8. POO débutants
+- class
+- init
+
+9. Iteration
+10. POO intermédiaire

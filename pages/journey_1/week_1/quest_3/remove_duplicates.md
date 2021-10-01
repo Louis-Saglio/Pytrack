@@ -1,0 +1,3 @@
+Créez une fonction main qui prend comme argument une liste et retourne une autre liste contenant les mêmes élément mais sans duplicata, l'ordre n'importe pas.  
+Par exemple :
+ - Entrée : `[1, "b", 1, 5, None, None]` -> sorties possibles `[1, "b", 5, None]` ou bien `["b", 5, 1, None]`...
