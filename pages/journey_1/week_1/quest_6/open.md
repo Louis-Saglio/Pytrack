@@ -1,0 +1,1 @@
+Créez une fonction main prennant en paramètre la path vers un fichier et retournant le contenu de ce fichier

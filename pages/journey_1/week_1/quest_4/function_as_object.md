@@ -1,0 +1,1 @@
+Créez une fonction main quelconque et une variable a telle que l'expression`a is main` renvoie `True`

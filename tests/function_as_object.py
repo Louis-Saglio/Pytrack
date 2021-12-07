@@ -1,4 +1,4 @@
-# Créez une fonction main quelcquonque et une variable a telle que `a is main` renvoie `True`
+# Créez une fonction main quelconque et une variable a telle que `a is main` renvoie `True`
 def main(namespace, src):
     func = namespace["main"]
     a = namespace.get("a")

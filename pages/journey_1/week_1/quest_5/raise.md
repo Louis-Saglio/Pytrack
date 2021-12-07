@@ -1,0 +1,1 @@
+Créez une fonction `main` sans paramètre qui lève une RuntimeError avec 'hello world' comme message d'erreur

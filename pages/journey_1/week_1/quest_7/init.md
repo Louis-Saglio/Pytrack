@@ -1,0 +1,1 @@
+Créez une class User ayant comme attribut name et age pouvant être initialisé à l'instantiation comme celà : `User(name='Name', age=42)`

@@ -1,0 +1,1 @@
+Créez une fonction main prennant le path d'un file comme paramètre et écrivant 'lorem ipsum' dans ce fichier
