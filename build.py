@@ -71,6 +71,6 @@ with open("test/test.py", "w") as f:
 # Transpile it to C
 os.system("cython test/test.py --embed -o test/test.c")
 # Compile the generated C code
-os.system("gcc -Os -I /usr/include/python3.9 -o test/test test/test.c -lpython3.9 -lpthread -lm -lutil -ldl")
+os.system("gcc -Os -I /usr/include/python3.10 -o test/test test/test.c -lpython3.10 -lpthread -lm -lutil -ldl")
 # Build the docker image
 os.system("docker build -t pytrack .")
